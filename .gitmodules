@@ -1,0 +1,21 @@
+[submodule "allo-v2/lib/forge-std"]
+	path = allo-v2/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "allo-v2/lib/openzeppelin-contracts"]
+	path = allo-v2/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "allo-v2/lib/openzeppelin-contracts-upgradeable"]
+	path = allo-v2/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "allo-v2/lib/solady"]
+	path = allo-v2/lib/solady
+	url = https://github.com/vectorized/solady
+[submodule "allo-v2/lib/eas-contracts"]
+	path = allo-v2/lib/eas-contracts
+	url = https://github.com/ethereum-attestation-service/eas-contracts
+[submodule "allo-v2/lib/v2-core"]
+	path = allo-v2/lib/v2-core
+	url = https://github.com/sablier-labs/v2-core
+[submodule "allo-v2/lib/permit2"]
+	path = allo-v2/lib/permit2
+	url = https://github.com/Uniswap/permit2
